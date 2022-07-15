@@ -1,0 +1,105 @@
+/* CSS Reset */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Declaração de Variáveis */
+
+body.dark-blue{
+    --bg-color: #1A2F4A;
+    --text-color: #FFF;
+    --text-color-button: #FFF;
+    --primary-color: #305789;
+    --primary-color-dark: #274770;
+}
+
+body.light-blue{
+    --bg-color: #FFF;
+    --text-color: #1A2F4A;
+    --text-color-button: #FFF;
+    --primary-color: #305789;
+    --primary-color-dark: #274770;
+}
+
+/* Corpo do HTML */
+
+a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--text-color);
+    font-family: sans-serif;
+}
+
+.container-header {
+    text-align: center;
+    width: 300px;
+    margin: 1% auto;
+}
+.container {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    text-align: center;
+    width: 600px;
+    margin: 2% auto;
+}
+
+header.container {
+    text-align: center;
+    width: 400px;
+    margin: 2% auto;
+}
+
+h1 {
+    font-size: 32px;
+    margin: 5% 0 2%x 0;
+}
+
+h2.sub {
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+ul {
+    list-style: none;
+    margin: 10%;
+}
+
+ul li a {
+    height: 2em;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--primary-color);
+    color: var(--text-color-button);
+    font-size: 24px;
+
+    margin-bottom: 0.8em;
+    border-radius: 6px;
+
+    transition: background 400ms;
+}
+
+ul li a:hover {
+    background: var(--primary-color-dark);
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    font-weight: 200;
+    opacity: 0.6;
+    transition: opacity 400ms;
+}
+
+footer:hover {
+    opacity: 1;
+}
