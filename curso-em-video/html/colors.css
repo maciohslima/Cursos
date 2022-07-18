@@ -1,0 +1,15 @@
+body.dark-blue {
+    --bg-color: #1A2F4A;
+    --text-color: #FFF;
+    --text-color-button: #FFF;
+    --primary-color: #305789;
+    --primary-color-dark: #274770;
+}
+
+body.light-blue {
+    --bg-color: #FFF;
+    --text-color: #1A2F4A;
+    --text-color-button: #FFF;
+    --primary-color: #305789;
+    --primary-color-dark: #274770;
+}
