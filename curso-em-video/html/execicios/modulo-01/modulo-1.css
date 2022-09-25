@@ -34,7 +34,26 @@ h1 {
     margin: auto;
 }
 
+/* ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    text-align: center;
+    width: 600px;
+    margin: 2% auto;
+} */
+
+/* li {
+    margin: 5% 0 2% 0;
+} */
+
 a.previous{
     margin-left: 5px;
     font-size: 14px;
+}
+
+a.previous:hover{
+    font-size: 16px;
+
+    transition-duration: 400ms;
 }
