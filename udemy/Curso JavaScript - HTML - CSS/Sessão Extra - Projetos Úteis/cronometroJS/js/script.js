@@ -25,8 +25,9 @@ function pause(){
 
 function stop(){
     clearInterval(interval);
-    sec=0;
-    min=0;
+    sec = 0;
+    min = 0;
+    hr = 0;
     window.alert("Você parou o relógio em: " + document.getElementById('watch').innerText);
     document.getElementById('watch').innerText='00:00:00';
     document.getElementById("disabled-start").disabled = false;
