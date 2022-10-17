@@ -1,3 +1,9 @@
+/**
+ * @author: maciohslima
+ * Criado em: 17/10/2022
+ * Curso Udemy: HTML - CSS - JavaScript
+ */
+
 const operacao = (num1, num2) => {
 
     console.log(`
