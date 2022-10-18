@@ -10,6 +10,7 @@ HTML5 <br>
 CSS3 <br>
 JavaScript <br>
 ReactJS <br>
+EletronJS <br>
 
 ### Comandos Git Importantes
 
