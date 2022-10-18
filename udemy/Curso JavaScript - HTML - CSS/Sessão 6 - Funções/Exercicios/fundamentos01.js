@@ -2,6 +2,7 @@
  * @author: maciohslima
  * Criado em: 17/10/2022
  * Curso Udemy: HTML - CSS - JavaScript
+ * Exercício: Criar uma função que ao receber dois parâmetros execute as operações básicas
  */
 
 const operacao = (num1, num2) => {
