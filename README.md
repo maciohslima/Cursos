@@ -19,6 +19,6 @@
 
 * Para Estudar
 
-ReactJS
-VueJS
+[ReactJS](https://reactjs.org/) |
+[VueJS](https://vuejs.org/) |
 [Stateofjs](https://2021.stateofjs.com/)
