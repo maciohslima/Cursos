@@ -11,7 +11,7 @@ function operacaoDivRes (dividendo, divisor) {
 
     // validação de dados;
     if(divisor === 0) {
-        return 'Número do dividendo é inválido, pois nenhum número pode ser dividido por zero';
+        return 'Número do divisor é inválido, pois nenhum número pode ser dividido por zero';
     } else {
         return 'O valor da divisão é: ' + divisao + '\nO valor do resto da divisão é: ' + resto;
     }
