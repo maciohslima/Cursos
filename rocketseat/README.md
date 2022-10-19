@@ -1,15 +1,16 @@
 # Rocketseat
+
 Aulas e Desafios do portal Rocketseat
 
-# Trilha de Aulas Discover (Em Andamento)
+## Trilha de Aulas Discover (Em Andamento)
 
 * Agora sim, cores
 
 ## Linguagems em destaque
 
- * HTML
- * CSS
- * JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ~~~html
 <html>
@@ -22,6 +23,7 @@ Aulas e Desafios do portal Rocketseat
 </html>
 
 ~~~
+
 ~~~css
 /* CSS Reset */
 * {
@@ -30,6 +32,7 @@ Aulas e Desafios do portal Rocketseat
     box-sizing: border-box;
 }
 ~~~
+
 ~~~git
 git status
 git add .
