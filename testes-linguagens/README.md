@@ -1,1 +1,1 @@
-#Pasta de testes de linguagens de programacao.
+# Pasta de testes de linguagens de programacao
