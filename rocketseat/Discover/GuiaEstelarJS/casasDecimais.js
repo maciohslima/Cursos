@@ -1,6 +1,6 @@
 /**
  * Maratona Discover - RocketSeat
- * @author maciohsdlima
+ * @author maciohslima
  * Converter casas decimais e notacao ponto por virgula
  */
 
