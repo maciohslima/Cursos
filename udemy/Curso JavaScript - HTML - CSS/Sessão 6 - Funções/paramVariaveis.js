@@ -1,6 +1,6 @@
 /**
  * Curso Web Moderno (HTML - CSS - JavaScript)
- * @author: maciohslima
+ * @author maciohslima
  */
 
 function soma() {
