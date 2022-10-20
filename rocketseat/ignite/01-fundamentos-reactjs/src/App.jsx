@@ -9,6 +9,7 @@ export function App() {
       <Post 
         author = "Macio Lima"
         content = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione error fugit et velit numquam nostrum sequi? Vel placeat, amet praesentium nam ullam et. Ad ducimus accusantium eius ea aliquid eos."
+        image = "https://avatars.githubusercontent.com/u/71100863?v=4"
       />
       <Post 
         author = "Thiago Andrade"
